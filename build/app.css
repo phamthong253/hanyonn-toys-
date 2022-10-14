@@ -13,7 +13,7 @@ html{
     scroll-behavior: smooth;
 }
 input[type=checkbox]:checked + .nav_mobile{
-right: 27%;
+right: 0%;
 }
 #nav-mobile-input{
     display:none;
