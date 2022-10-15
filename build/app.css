@@ -1,9 +1,9 @@
 @font-face{
-    src:url(/font/iciel\ Pony.ttf) format('truetype');
-    font-family: 'Iciel Pony';
+    src:url(/font/COOPBL.TTF) format('truetype');
+    font-family: 'COOPBL' ;
     }
 body{
-    font-family: 'Iciel Pony';
+    font-family: 'COOPBL';
     overflow-x: hidden;
 }
 p{
