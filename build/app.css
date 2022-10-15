@@ -1,4 +1,11 @@
-
+@font-face{
+    src:url(/iciel\ Pony.ttf) format('truetype');
+    font-family: 'Iciel Pony';
+    }
+body{
+    font-family: 'Iciel Pony';
+    overflow-x: hidden;
+}
 p{
     color:rgb(71, 0, 82);
 }
