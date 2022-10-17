@@ -1,9 +1,9 @@
 @font-face{
-    font-family: iciel Pony;
-    src:url(./icons/themify-icons/fonts/iciel Pony.ttf) format('truetype');
+    font-family: "iciel Pony";
+    src:url(../icons/themify-icons/fonts/iciel Pony.ttf) format('truetype');
     }
 body{
-    font-family: iciel Pony;
+    font-family: "iciel Pony";
     overflow-x: hidden;
 }
 p{
